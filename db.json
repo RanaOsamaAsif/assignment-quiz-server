@@ -3,12 +3,26 @@
     {
       "id": 17,
       "points": 10,
-      "title": "Who is the Founder of Pakistan?"
+      "title": "Who is the Founder of Pakistan?",
+      "type": "objective"
     },
     {
       "id": 18,
       "points": 20,
-      "title": "When is Pakistan Day?"
+      "title": "When is Pakistan Day?",
+      "type": "objective"
+    },
+    {
+      "id": 19,
+      "points": 30,
+      "title": "Write an essay on your favourite personality?",
+      "type": "subjective"
+    },
+    {
+      "id": 20,
+      "points": 50,
+      "title": "Write the name of your favourite Javascript framework?",
+      "type": "subjective"
     }
   ],
   "options_list": [
@@ -41,6 +55,18 @@
       "title": "Sir Syed Ahmad Khan",
       "related_question": 17,
       "correct_answers": null
+    },
+    {
+      "id": 62,
+      "title": "Quaid E Azam is my favourite personality!",
+      "related_question": 19,
+      "correct_answers": 19
+    },
+    {
+      "id": 63,
+      "title": "React JS is my favourite framework!",
+      "related_question": 20,
+      "correct_answers": 20
     }
   ]
 }
